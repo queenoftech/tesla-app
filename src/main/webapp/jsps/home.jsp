@@ -13,7 +13,8 @@
 <h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
 	           We are raising over millionaires in IT.
 	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.
-	Landmark Technology Tesla Web Application Project2.</h1>
+	Landmark Technology Tesla Web Application Project2.
+	Devops is good,JESUS IS LORD.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
